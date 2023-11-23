@@ -1,0 +1,13 @@
+Features Javascript :
+
+1. function slider.
+	Pada function ini memiliki fungsi untuk membuat slider pada class jumbotron yang akan berpindah secara otomatis berdasarkan waktu yang telah ditentukan menggunakan setInterval.
+
+2. function sticky navbar
+	Function yang dibuat untuk menerapkan sticky navbar ketika melakukan scroll down.
+
+3 function prefixText
+	Function ini dibuat untuk melakukan substring terhadapt description content sehingga dapat memiliki panjang yang sama untuk setiap content.
+
+4. function setViewContent
+	Function ini dibuat untuk melakukan manipulasi dom list content, sehingga user dapat memilih view content secara grid atau list
